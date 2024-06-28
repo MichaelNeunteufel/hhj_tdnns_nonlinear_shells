@@ -1,29 +1,12 @@
-# JupyterLite Demo
+# Hellan-Herrmann-Johnson and TDNNS methods for linear and nonlinear shells
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ngsolve.github.io/jupyterlite_ngsolve/lab?path=poisson.ipynb)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://michaelneunteufel.github.io/hhj_tdnns_nonlinear_shells/?path=index.ipynb)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
-## ✨ Try it in your browser ✨
+## Examples directly available in the browser
 
-➡️ **https://ngsolve.github.io/jupyterlite_ngsolve/lab?path=poisson.ipynb**
-
-
-## Setting up your own NGSolve - jupyterlite demos:
-
-1. Sign in to your github account
-   
-2. Click on 'Use this template' to create your new, public repository
-   
-3. Enable 'github-pages from actions':
-
-   Settings -> Pages -> Source: 'github actions'
-
-4. Click on 'Actions', and allow workflow actions (maybe not necessary ?)
-
-5. Fill the 'contents' folder with your notebooks
-
-6. Adjust links to your github pages website
+➡️ **https://michaelneunteufel.github.io/hhj_tdnns_nonlinear_shells/?path=index.ipynb**
 
 
 
