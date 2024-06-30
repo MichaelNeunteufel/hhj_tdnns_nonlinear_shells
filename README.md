@@ -2,17 +2,15 @@
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://michaelneunteufel.github.io/hhj_tdnns_nonlinear_shells/?path=index.ipynb)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+We collect and present shell benchmark examples solved with the Hellan-Herrmann-Johnson (HHJ) and tangential-displacement-normal-normal-stress continuous (TDNNS) methods. All benchmarks from the paper [Neunteufel, Schöberl. The Hellan-Herrmann-Johnson and TDNNS methods for linear and nonlinear shells] can be found here.
+
+## How to start 
+If you have [NGSolve](www.ngsolve.org) installed locally including jupyter-notebook widgets you can run the index.ipynb notebook in the content folder to navigate through the benchmark examples.
 
 ## Examples directly available in the browser
+If you don't have NGSolve or want to quickly run the files you can do this directly in the browser via JupyterLite.
 
 ➡️ **https://michaelneunteufel.github.io/hhj_tdnns_nonlinear_shells/?path=index.ipynb**
 
 
 
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
